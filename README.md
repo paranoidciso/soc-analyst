@@ -1,9 +1,9 @@
 # SOC Analyst Learning Journey
 
-[Fundamentals],br.
-[Digital Forensics]<br>
-[Incident Response]<br>
-[Phishing Analysis]<br>
-[Security Information and Event Management (SIEM)]<br>
-[Threat Intelligence}<br>
-[Tools](https://github.com/paranoidciso/soc-analyst/blob/8b5b95230ec4601a1932258ce1e228971ccb9759/tools.md "Tools")<br>
+[Fundamentals](/fundamentals.md "Fundamentals")<br>
+[Digital Forensics](/digital-forensics.md "Digital Forensics")<br>
+[Incident Response](/incidet-response "Incident Response")<br>
+[Phishing Analysis](/phishing-analysis "Phishing Analysis")<br>
+[Security Information and Event Management (SIEM)](/siem "Security Information and Event Management (SIEM)")<br>
+[Threat Intelligence](/threat-intelligence "Threat Intelligence")<br>
+[Tools](/tools.md "Tools")<br>
